@@ -1,0 +1,401 @@
+transaction_id,customer_id,transaction_text,transaction_value,transaction_type,transaction_description,category,predicted_category
+314,G7YACCWXTNEG,HEARST MEMBERSHIP 05/07 PURCHASE 800-554-5000 NC,3,Debit,Monthly digital magazine subscription.,General Merchandise / Books,General Merchandise
+431,G7YACCWXTNEG,WEB Funds Transfer Internet transfer from Interest Checking account XXXXXX8249,787.47,Credit,Transfer between accounts.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+521,J6TM2D4MANTG,MONEYSEND TRANS Cash AppCash Out*,68.78,Credit,I received an instant transfer from Cash App.,"Bank Transfers / Third-party transfers (Zelle, Paypal, Venmo)",Bank Transfers
+309,YYCA2DXN94NG,STAPLES 0186 PLYMOUTH /MA US CARD PURCHASE,15.93,Debit,This is a purchase of a trash can at Staples.,General Merchandise / Houseware,General Merchandise
+478,6XA9X4RD9RAY,BRITISH MENSA LTD 05441560 918471,54.95,Debit,An annual membership subscription cost.,Entertainment / Other,Entertainment
+332,PC663CTNCDXX,BB* CENTER BAR,10.63,Debit,This is a bar.,Food & Drink / Alcohol & Bars,Food & Drink
+305,G7YACCWXTNEG,XX8046 LUCKY FAST FOOD MALDEN MA,12,Debit,Bought lunch at a Chinese restaurant.,Food & Drink / Restaurants,Food & Drink
+151,J6TM2D4MANTG,SYF MC Bill Pay *****4676,27,Debit,Credit Card payment.,Loans / Credit card payment,Loans
+72,J6TM2D4MANTG,Kentucky Utiliti WEB PYMTS,144.9,Debit,I paid my electric bill.,"Rent & Utilities / Electricity, natural gas and propane energy",Rent & Utilities
+337,G7YACCWXTNEG,POS SIG 06/06 VISA #3509 DD DOORDASH TOBYSORIG 855-973-1040 CA,15.96,Debit,Restaurant delivery.,Food & Drink / Food delivery,Food & Drink
+128,PAEJPZXXTQ2M,Dividend/Interest,0.1,Credit,I received an interest payment from the bank.,"Income / Interest, investment returns, and dividends",Income
+290,G7YACCWXTNEG,OLD NAVY US 3990 PLANO TX,8.43,Debit,This was for a pair of exercise shorts.,General Merchandise / Clothing,General Merchandise
+153,J6TM2D4MANTG,SSA TREAS 310 DES:XXSOC SEC ID:XXXXX0964A,1201,Credit,Social Security Disability Monthly Benefits.,Income / Other,Income
+56,G7YACCWXTNEG,CONSUMERS ENERGY CO Debit Card,63.01,Debit,I paid my monthly cost on my electric bill.,"Rent & Utilities / Electricity, natural gas and propane energy",Rent & Utilities
+438,4TGHEHM2RVX7,POS Withdrawal - PAYPAL *NETFLIX.COM 7700 EASTPORT PARKWAY 4029357733 CAUS - Card Ending In 8349,19.81,Debit,This is for the Netflix streaming service.,Entertainment / TV and movies,Entertainment
+415,G7YACCWXTNEG,TRADER JOE'S #402 QPS,18.53,Debit,This was for a few groceries.,Food & Drink / Groceries,Food & Drink
+488,6XA9X4RD9RAY,PAYPAL *PP CRYPT U CD 3041,254.5,Debit,Money used to buy some cryptocurrency via paypal.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+232,PAEJPZXXTQ2M,Bath & Body Works,16.03,Debit,This was for fragrance refills.,General Merchandise / Other,General Services
+244,4TGHEHM2RVX7,TST* BATCH GASTROPUB,47.09,Debit,This is a Dinner Restaurant!.,Food & Drink / Restaurants,Food & Drink
+374,PC663CTNCDXX,8382 Debit Card Purchase Kfteausa_247,24.37,Debit,Purchased tea from Kung Fu Tea.,Food & Drink / Coffee and tea,Food & Drink
+276,MFVVAY4H7Y4H,WALGREENS #7734 PLYMOUTH /MA US CARD PURCHASE,19.27,Debit,Purchase of paper goods at Walgreens.,"General Merchandise / Beauty, cosmetics, personal care items and toiletries",General Merchandise
+6,4TGHEHM2RVX7,CUMBERLAND FARMS 9793,21.39,Debit,I got a bit of gas.,Transportation / Gas,Transportation
+330,J6TM2D4MANTG,3CPAYMENT*STARBUCKS 286 YORK,11.5,Debit,Coffee and muffins at Starbucks.,Food & Drink / Coffee and tea,Food & Drink
+179,MFVVAY4H7Y4H,MOBILE DEPOSIT XXXXX4105,841,Credit,Deposited a check for Child Support.,"Income / Child support, alimony",Income
+224,G7YACCWXTNEG,HECKIN UNICORN P IAT PAYPAL ***********4797,50.95,Debit,Purchase of unicorn merchandise thru PayPal.,General Merchandise / Other,General Merchandise
+198,YYCA2DXN94NG,ASPCA WEB DONATION 800-628-0028 NY,25,Debit,This is a donation to an animal charity organization.,Government + Non-Profit / Other donations,Government + Non-Profit
+210,MQGN7N3PKYRA,State Farm,98.99,Debit,This is my car insurance monthly premium.,General Services / Auto insurance,General Services
+3,J6TM2D4MANTG,DEBIT CARD PURCHASE XXXXX8046 LYFT *2 RIDES 04-30 LYFT.COM CA,20.64,Debit,Rideshare charges for two rides.,"Rent & Utilities / Electricity, natural gas and propane energy",Rent & Utilities
+31,G7YACCWXTNEG,OPC*AVANT 06/10 PURCHASE 800-712-5407 IL,7.41,Debit,Credit card payment.,Loans / Credit card payment,Loans
+111,6XA9X4RD9RAY,White Water Carwash,11,Debit,This is for a car wash.,Transportation / Automobile maintenance and fees,Transportation
+323,4TGHEHM2RVX7,POS Withdrawal - DOORDASH*CHIPOTLE 303 2nd StreetSuite 800SAN FRANCISCOCAUS - Card Ending In 8349,18.71,Debit,I ordered some Chipotle using DoorDash.,Food & Drink / Food delivery,Food & Drink
+11,4TGHEHM2RVX7,EXXONMOBIL 97415541,20,Debit,Purchase $20 of gas from Exxon.,Transportation / Gas,Transportation
+94,G7YACCWXTNEG,XFINITY MOBILE 888-936-4968 /PA US CARD PURCHASE,21.99,Debit,Monthly mobile phone payment by the gig data plan.,Rent & Utilities / Mobile Phone,Rent & Utilities
+168,MFVVAY4H7Y4H,TOP CASHBACK,30.3,Credit,This is money received from a cashback rewards website.,Income / Other,Income
+7,J6TM2D4MANTG,DEBIT CARD PURCHASE XXXXX4094 HOMEWOOD PARKING OFFIC BALTIMORE M,19,Debit,Parking fees.,Transportation / Parking,Transportation
+101,G7YACCWXTNEG,DEKRA LEGACY,25.5,Debit,This was for my car inspection.,Transportation / Automobile maintenance and fees,Transportation
+418,YYCA2DXN94NG,"POS Withdrawal - INSTACART 50 Beale Street, 6th FlSAN FRANCISCOCAUS - Card Ending In 8349",60.56,Debit,I ordered some groceries using a delivery service.,Food & Drink / Groceries,Food & Drink
+303,WNP9QWD2XJYT,POS Purchase Banh Mi & Ti Pittsburgh PA,21.83,Debit,Lunch purchase at restaurant.,Food & Drink / Restaurants,Food & Drink
+449,PAEJPZXXTQ2M,Steam Games,5,Debit,This is for a purchase of a video game.,Entertainment / Video games,Entertainment
+325,PAEJPZXXTQ2M,Sugar Pine Creamery,6.47,Debit,This is for ice cream.,"Food & Drink / Bakeries, ice cream shops and dessert shops",Food & Drink
+471,WNP9QWD2XJYT,POS SIG 12/25 VISA #7297 STEAMGAMES.COM 4259522 425-8899642 WA,3.74,Debit,Microtransaction for a videogame via Stream.,Entertainment / Video games,Entertainment
+452,J6TM2D4MANTG,Spotify,17.31,Debit,This is a music subscription.,Entertainment / Music,Entertainment
+176,G7YACCWXTNEG,Corporate ACH Patreon Patreon St-C8K3V0N5B4V0,43.31,Credit,Income received from Patreon subscribers for my art.,"Income / Wages, gig economy, tips",Income
+466,G7YACCWXTNEG,MONTHLY SERVICE CHARGE VR,7,Debit,Monthly fees associated with the account.,Bank Transfers / Other bank fees,Bank Transfers
+227,WNP9QWD2XJYT,PETMOBILE PET HOSPITAL 972-849-5489 TX,49.06,Debit,This is for my cat's prescription cat food.,General Merchandise / Pet supplies,General Merchandise
+514,J6TM2D4MANTG,CASH APP*JAMIE 4153753176 /CA US CARD PURCHASE,10,Debit,Payment on Cash App to a friend of money that he lent me.,"Bank Transfers / Third-party transfers (Zelle, Paypal, Venmo)",Bank Transfers
+440,PC663CTNCDXX,HOLLYWOOD BOWL CD 3041,19.97,Debit,Money spent at a bowling alley during a family outing.,Entertainment / Other,Entertainment
+483,YYCA2DXN94NG,FCB FUNDS TRANSFER TO X3428,180,Debit,Transfer from savings account to checking account.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+326,G7YACCWXTNEG,KOS MB 949 Kraljevo Kraljevo,32.23,Debit,Grocery shopping.,Food & Drink / Groceries,Food & Drink
+369,4TGHEHM2RVX7,SEAMLSSTSWIRLCREPE 5/11 PURCHASE SEAMLESS.COM NY,43.93,Debit,Ordered dinner from T-Swirl Crepe restaurant through Seamless delivery service.,Food & Drink / Food delivery,Food & Drink
+85,G7YACCWXTNEG,POS Withdrawal - XFINITY MOBILE 1701 JOHN F KENNEDY BLV888-936-4968 PAUS - Card Ending In 8349,112.48,Debit,This is for my mobile phone payment.,Rent & Utilities / Mobile Phone,Rent & Utilities
+462,MFVVAY4H7Y4H,TRANSFER DB TO ******79,100,Debit,Transfer money from savings to checking.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+352,J6TM2D4MANTG,POS Withdrawal - DOORDASH*DAIRY QUEEN 303 2nd StreetSuite 800SAN FRANCISCOCAU - Card Ending In 8349,29.9,Debit,I got some Dairy Queen using DoorDash.,Food & Drink / Food delivery,Food & Drink
+57,G7YACCWXTNEG,RADIOLOGYPHYSICI WEBPAYMENT 220317,16.47,Debit,Payment on medical bill.,"Medical / Primary, dental, eye, and nursing care",Medical
+222,G7YACCWXTNEG,Signature POS Debit 12/01 6337 IN 844-507-8474 ANTHEM BLUE IND UA,7.08,Debit,I paid my health insurance premium.,General Services / Health insurance,General Services
+49,G7YACCWXTNEG,Benu Pharmacies 475 Kraljevo,16.94,Debit,I bought some muscle cream from the pharmacy.,Medical / Pharmacies and supplements,Medical
+259,J6TM2D4MANTG,Jersey Mike's,16.02,Debit,This is sandwiches for lunch.,Food & Drink / Restaurants,Food & Drink
+140,G7YACCWXTNEG,Interest Earned,0.03,Credit,Interest from my checking account.,"Income / Interest, investment returns, and dividends",Income
+391,G7YACCWXTNEG,POS Withdrawal - DOORDASH*7-ELEVEN 303 2nd StreetSuite 800SAN FRANCISCOCAUS - Card Ending In 8349,16.15,Debit,I bought some groceries items from 7/11.,Food & Drink / Groceries,Food & Drink
+355,PC663CTNCDXX,HTEAO - PLANO,5.81,Debit,This is for the purchase of iced tea.,Food & Drink / Coffee and tea,Food & Drink
+84,PAEJPZXXTQ2M,POS Withdrawal - XFINITY MOBILE 1701 JOHN F KENNEDY BLV888-936-4968 PAUS - Card Ending In 8349,112.46,Debit,I paid my phone bill.,Rent & Utilities / Mobile Phone,Rent & Utilities
+367,G7YACCWXTNEG,POS Withdrawal - DOORDASH*DAIRY QUEEN 303 2nd StreetSuite 800SAN FRANCISCOCAU - Card Ending In 8349,33.03,Debit,"I got some Dairy Queen, which is a restaurant.",Food & Drink / Food delivery,Food & Drink
+93,PC663CTNCDXX,SPRINT *WIRELES 800-639-6111 /KS US CARD PURCHASE,145.81,Debit,Cell Phone bill.,Rent & Utilities / Mobile Phone,Rent & Utilities
+333,MQGN7N3PKYRA,8382 Debit Card Purchase Starbucks Store 00751,4.76,Debit,Purchased a drink from Starbucks.,Food & Drink / Coffee and tea,Food & Drink
+308,G7YACCWXTNEG,Country Burger,13.5,Debit,This was for lunch out.,Food & Drink / Restaurants,Food & Drink
+61,J6TM2D4MANTG,BANFIELD PET HOSPITAL,148.49,Debit,This is for my dog's 6 month supply of flea and tick meds.,Medical / Veterinary services,Medical
+8,J6TM2D4MANTG,8382 Debit Card Purchase Amtrak .Com 0460722609,108,Debit,"Online purchase of Amtrak train ticket, two-way trip.",Transportation / Public Transport,Transportation
+43,J6TM2D4MANTG,AFFIRM.COM PAYMENTS Debit Card,29.52,Debit,This is a monthly fee I pay for an Affirm purchase.,Loans / Personal loans,Loans
+107,G7YACCWXTNEG,ACH WEBRECUR XXXXX0001 VERIZON PAYMENTREC,47.23,Debit,Payment to Verizon for internet service.,Rent & Utilities / Internet,Rent & Utilities
+157,G7YACCWXTNEG,Stripe DES:Transfer ID:ST,5.37,Credit,Payment for work.,"Income / Wages, gig economy, tips",Income
+197,J6TM2D4MANTG,DEBIT CARD PURCHASE XXXXX8046 PAYPAL NORTON XXXXX7733 AZ,106.24,Debit,I was charged for antivirus services.,General Services / Other non-entertainment online subscriptions,General Services
+430,J6TM2D4MANTG,TAYLOR A F SPENDS 29MAY22,40,Credit,Money sent by my wife to pay for a transaction made on my credit card.,"Bank Transfers / Third-party transfers (Zelle, Paypal, Venmo)",Bank Transfers
+344,G7YACCWXTNEG,MCDONALDS - YORK 207 YORK,1.29,Debit,A coffee from McDonald's.,Food & Drink / Fast food,Food & Drink
+413,G7YACCWXTNEG,Rite Aid 06482 Fontana CA,8.61,Debit,I bought groceries.,Food & Drink / Groceries,Food & Drink
+338,G7YACCWXTNEG,WENDY'S #7866,4.69,Debit,I got ice cream from Wendy's.,Food & Drink / Fast food,Food & Drink
+455,G7YACCWXTNEG,POS Withdrawal - PAYPAL *DISNEY PLUS 7700 EASTPORT PARKWAY 4029357733 CAUS - Card Ending In 8349,8.8,Debit,Used PayPal to pay for Disney+.,Entertainment / TV and movies,Entertainment
+181,PC663CTNCDXX,STASH CAPITAL (S ACH May 06 ************06,3.55,Credit,Investment returns from the Stash app.,"Income / Interest, investment returns, and dividends",Income
+161,J6TM2D4MANTG,PORTFOLIO RECOV ASSOC 04/03 PURCHASE 800-772-1410 VA,5.82,Debit,Monthly payment to a debt recovery/collection agency service.,Loans / Credit card payment,Loans
+173,YYCA2DXN94NG,LITTLE GREEN RASCA 0028,1181.92,Debit,Money paid for my daughter's nursery fees.,General Services / Childcare,General Services
+103,WNP9QWD2XJYT,POS Withdrawal - COMCAST BELLINGHAM 15815 25th Ave 800-266-2278 WAUS - Card Ending In 8349,160,Debit,I paid my internet bill.,Rent & Utilities / Internet,Rent & Utilities
+18,4TGHEHM2RVX7,PURCHASE AUTHORIZED ON 02/20 CHEVRON 0358896 ST. PETERSBUR FL S462051704244494 CARD 9052,10.55,Debit,Gas station.,Transportation / Gas,Transportation
+152,G7YACCWXTNEG,Particle Media I DES:EDI,329,Debit,Payment from my job.,"Income / Wages, gig economy, tips",Income
+420,G7YACCWXTNEG,ALDI 73021 000000000W. Springfield MA,72.19,Debit,Grocery purchase at Aldi.,Food & Drink / Groceries,Food & Drink
+211,PC663CTNCDXX,PA COURTS FINES AND COS 05/01 PURCHASE XXX-XX72672 PA,152.75,Debit,Paid balance owed on fines owed from citation.,Government + Non-Profit / Other,Government + Non-Profit
+24,PC663CTNCDXX,POS Withdrawal - COMCAST BELLINGHAM 15815 25th Ave 800-266-2278 WAUS - Card Ending In 8349,186.01,Debit,I paid off some of my internet bill.,Rent & Utilities / Internet,Rent & Utilities
+63,G7YACCWXTNEG,PURCHASE 08/18 WALGREENS STORE WALGREENS STORE ST PETERSBURFL 999999,28.88,Debit,Medicine.,Medical / Pharmacies and supplements,Medical
+448,G7YACCWXTNEG,Store Purchase PARAMOUNT+,11.31,Debit,Payment for streaming service.,Entertainment / TV and movies,Entertainment
+201,J6TM2D4MANTG,Adobe Photogphy Plan,10.59,Debit,Adobe Photoshop monthly plan.,General Services / Other non-entertainment online subscriptions,General Services
+15,G7YACCWXTNEG,Qatar Airway0009999999999DOHA,616.24,Debit,I bought a plane ticket.,Travel / Flights,Travel
+358,J6TM2D4MANTG,XXXXX8046 DD DOORDASH TACOBELL XXXXX1040,16.68,Debit,Ordered food from DoorDash.,Food & Drink / Food delivery,Food & Drink
+450,YYCA2DXN94NG,AXS.COM*PROMOWEST PROD 06/14 PURCHASE 888-929-7849 CA,133.16,Debit,Purchase of concert tickets.,Entertainment / Music,Entertainment
+9,PAEJPZXXTQ2M,DEBIT CARD PURCHASE XXXXX4094 LYFT 1 RIDE 0518 XXXXX9553 CA,15.4,Debit,Payment for Lyft car ride.,Transportation / Taxis and ride shares,Transportation
+300,J6TM2D4MANTG,POS SIG 05/05 VISA #7297 AMZN Mktp US*138571ON0 Amzn.com/bill WA,33.17,Debit,Computer parts.,General Merchandise / Electronics,General Merchandise
+268,G7YACCWXTNEG,Cost Plus World Market,28.04,Debit,This was for a Mother's Day gift.,General Merchandise / Other,General Merchandise
+113,MQGN7N3PKYRA,City St Petersbg Pymt 220615 700065-12605,70.24,Debit,Water bill.,Rent & Utilities / Water,Rent & Utilities
+351,G7YACCWXTNEG,Zelle Debit PAY ID:CTIdmnWskvry ORG ID:BAC NAME:WISKERIA COR,8.3,Debit,Liquor.,Food & Drink / Alcohol & Bars,Food & Drink
+90,G7YACCWXTNEG,SAMSCLUB #4743,50.07,Debit,This is for gas for my car.,Transportation / Gas,Transportation
+136,PAEJPZXXTQ2M,ORTEGA & FIGUEROA TA,300,Debit,This was to pay our accountant for taxes!.,Government + Non-Profit / Taxes,Government + Non-Profit
+444,YYCA2DXN94NG,Deposit from 360 Checking xxxxxxx9999,100,Credit,Deposit from Capital One checking to Capital One savings.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+417,G7YACCWXTNEG,PURCHASE 06/08 Walmart.com 702 SW 8th St Bentonville AR 300003,25.29,Debit,Walmart grocery purchase.,Food & Drink / Groceries,Food & Drink
+134,G7YACCWXTNEG,External Withdrawal - HONDA PMT - 8004451358,264.73,Debit,This is for my car payment.,Loans / Car loan payments,Loans
+145,YYCA2DXN94NG,Internal Revenue Service,531,Credit,This is a tax refund.,Income / Tax refund,Income
+426,6XA9X4RD9RAY,8382 Recurring Debit Card Www.Neopets.Com,24.95,Debit,Monthly membership for online gaming site.,Entertainment / Video games,Entertainment
+261,J6TM2D4MANTG,24 PIADA FRISCO FRISCO TX,27.98,Debit,This was at a restaurant for lunch.,Food & Drink / Restaurants,Food & Drink
+242,PC663CTNCDXX,REPLAY SPORTS GEAR,12.99,Debit,This was for a disc for disc golf.,General Merchandise / Sporting goods,General Services
+412,G7YACCWXTNEG,POS Withdrawal - 554402000592782 Dhotson's Auburn WAUS - Card Ending In 8349,12.81,Debit,This is a grocery store where I purchased a few items.,Food & Drink / Groceries,Food & Drink
+315,J6TM2D4MANTG,POS Withdrawal - AMAZON.COM SEATTLE WAUS - Card Ending In 8349,64.9,Debit,I got some computer supplies off of Amazon.,General Merchandise / Electronics,General Merchandise
+496,G7YACCWXTNEG,Foreign Transaction Fee,0.29,Debit,Fee for a foreign transaction.,Bank Transfers / Foreign transaction fees,Bank Transfers
+131,6XA9X4RD9RAY,PAYPAL TRANSFER,26.27,Credit,I got paid for some freelance work.,"Income / Wages, gig economy, tips",Income
+41,MFVVAY4H7Y4H,FRONTIER COMM CORP WEB 800-921-8101 CT,49.99,Debit,This is my internet bill.,Rent & Utilities / Internet,Rent & Utilities
+458,4TGHEHM2RVX7,Recur Payment 10/19 6337 CA BURBANK Disney PLUS,8.47,Debit,I paid for my Disney Plus subscription.,Entertainment / TV and movies,Entertainment
+235,MFVVAY4H7Y4H,THE HOME DEPOT 2723,15.34,Debit,Pest spray for plants.,General Merchandise / Other,General Merchandise
+172,PAEJPZXXTQ2M,"BOARD OF TRUSTEE REG SALARY 220601 00001132693 PAGOE,ALEX",886.21,Credit,Wages from my job.,"Income / Wages, gig economy, tips",Income
+199,J6TM2D4MANTG,DEBIT CARD PURCHASE XXXXX8046 Amazon Prime*1A5EK72J0 Amzn.com/bi WA,6.99,Debit,Payment for Amazon Prime.,General Services / Other non-entertainment online subscriptions,General Services
+310,PC663CTNCDXX,CHERRY BLOSSOM ASHLAND /MA US CARD PURCHASE,84.21,Debit,Chinese food takeout for family.,Food & Drink / Restaurants,Food & Drink
+477,J6TM2D4MANTG,PRIME VIDEO*7L2715XA5 353-12477661,1.99,Debit,This is a charge for a film streamed via Amazon Prime Video.,Entertainment / TV and movies,Entertainment
+429,G7YACCWXTNEG,POS Withdrawal - Prime Video*KI0MC0ZS3 440 Terry Ave N 888-802-3080 WA - Card Ending In 8349,5.49,Debit,I paid for a streaming service off of Prime Video that wasn't Prime Video.,Entertainment / TV and movies,Entertainment
+120,PC663CTNCDXX,CAPITAL ONE MOBILE PMT 220220 3L9Q10EZ1C50CW5,22,Debit,Payment on credit card.,Loans / Credit card payment,Loans
+357,G7YACCWXTNEG,Walgreens Store 33 ATM/POS,4.32,Debit,I bought a drink an alcoholic drink at the Walgreens in Vegas.,Food & Drink / Alcohol & Bars,Food & Drink
+433,G7YACCWXTNEG,CREEPY CRAWLIES CREEPY UNITED KINGDOM,28.5,Debit,A family visit to a children's place centre.,Entertainment / Amusement Parks,Entertainment
+234,6XA9X4RD9RAY,POS Purchase Pet Supplies P Swissvale PA,4.62,Debit,Purchased pet supplies in store.,General Merchandise / Pet supplies,General Merchandise
+22,G7YACCWXTNEG,Walgreens,11.99,Debit,This was for prescription medicine.,"Medical / Primary, dental, eye, and nursing care",Medical
+439,PC663CTNCDXX,ACH Withdrawal STASH CAPITAL (S ACH,5,Debit,Automatic funds transfer to a Stash investment account.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+368,6XA9X4RD9RAY,POS Withdrawal - UBER EATS 1455 MARKET ST 8005928996 CAUS - Card Ending In 8349,31.55,Debit,I believe I ordered McDonald's here.,Food & Drink / Food delivery,Food & Drink
+71,4TGHEHM2RVX7,HUMANA COMPBENEF,12.99,Debit,This is my dental insurance!.,"Medical / Primary, dental, eye, and nursing care",Medical
+19,G7YACCWXTNEG,DEBIT CARD PURCHASE XXXXX4094 COMFORT INNS WOBURN MA,310.1,Debit,Payment hotel bill.,Travel / Lodging,Travel
+298,4TGHEHM2RVX7,PRIMARK YORK COPPERGATE YORK,26.1,Debit,Some clothing purchases.,General Merchandise / Clothing,General Merchandise
+183,YYCA2DXN94NG,POST OFFICE YORK-WHS YORK,6.85,Debit,Postage costs at the Post Office.,General Services / Shipping + Postage,General Services
+423,WNP9QWD2XJYT,ONLINE TRANSFER FROM Money Market Jun15 02:28p 145 REFERENCE # 008291,160,Credit,From Savings to Checkings account.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+364,PC663CTNCDXX,DUNKIN #343461 PLYMOUTH /MA US CARD PURCHASE,3.41,Debit,Iced coffee at Dunkin Donuts.,Food & Drink / Coffee and tea,Food & Drink
+322,G7YACCWXTNEG,WATERSTONES YORK YORK,4.97,Debit,A book from a bookshop.,General Merchandise / Books,General Merchandise
+264,G7YACCWXTNEG,DOLLAR TREE 00000519WEST SPRINGFI MA,7.97,Debit,Purchase at Dollar Tree.,General Merchandise / Other,General Merchandise
+445,G7YACCWXTNEG,SHARE DEALINGS LEE CD 3041,500,Debit,Money transferred to a share dealing account in order to buy some shares.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+520,J6TM2D4MANTG,VENMO PAYMENT 220602,100,Debit,Sent money to a friend.,"Bank Transfers / Third-party transfers (Zelle, Paypal, Venmo)",Bank Transfers
+503,PAEJPZXXTQ2M,DDA WITHDRAW *3441 TW877G67 KISSIMMEE *FL,120,Debit,ATM withdrawal from TD Bank.,Bank Transfers / ATM withdrawals,Bank Transfers
+486,MFVVAY4H7Y4H,DEBIT CARD PURCHASE XXXXX8046 Google SuperPlay XXXXX0000 C,3.18,Debit,In-app purchase.,Entertainment / Video games,Entertainment
+221,G7YACCWXTNEG,GOOGLE *Google Storage 06/06 PURCHASE g.co/helppay# CA,1.99,Debit,Money paid for Google Cloud's extra storage.,General Services / Cloud storage,General Services
+425,G7YACCWXTNEG,DEBIT CARD PURCHASE XXXXX8046 Amazon Digit*1O64S76G1 amzn.com/bi WA,10.61,Debit,Charged for streaming service add-ons.,Entertainment / TV and movies,Entertainment
+200,6XA9X4RD9RAY,IRS USATAXPYMT061522 *************31,600,Debit,Auto-payment to the IRS for taxes owed.,Government + Non-Profit / Taxes,Government + Non-Profit
+434,PC663CTNCDXX,Recur Payment 06/01 6337 CA NETFLIX.COM NETFLIX.COM,16.79,Debit,I paid for my Netflix subscription.,Entertainment / TV and movies,Entertainment
+270,4TGHEHM2RVX7,POS Purchase Burlington Sto Pittsburgh PA,53.49,Debit,Purchase of clothing items at Burlington.,General Merchandise / Clothing,General Merchandise
+410,6XA9X4RD9RAY,GOPUFF 05/06 PURCHASE 185-540-0783 PA,26,Debit,I ordered delivered grocery items via GoPuff.,Food & Drink / Groceries,Food & Drink
+292,J6TM2D4MANTG,POS Withdrawal - AMAZON.COM SEATTLE WAUS - Card Ending In 8349,393.93,Debit,I got some computer supplies off of Amazon.,General Merchandise / Electronics,General Services
+432,G7YACCWXTNEG,Internet transfer from Online Savings account XXXXXX9497,1000,Credit,Transfer from savings to checking.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+453,G7YACCWXTNEG,TD AMERITRADE ACH IN sUUV7T6R6,10,Debit,Electronic transfer of $10 to TD Ameritrade.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+517,MFVVAY4H7Y4H,VENMO*Comai Ma New York Cit/NY US CARD PURCHASE REFUND,4.75,Credit,Instant transfer from Venmo.,"Bank Transfers / Third-party transfers (Zelle, Paypal, Venmo)",Bank Transfers
+390,PAEJPZXXTQ2M,POS Withdrawal - DOORDASH*7-ELEVEN 303 2nd StreetSuite 800SAN FRANCISCOCAUS - Card Ending In 8349,15.73,Debit,I ordered some groceries.,Food & Drink / Groceries,Food & Drink
+263,J6TM2D4MANTG,TST* Sushi Garage,27.52,Debit,This is a restaurant.,Food & Drink / Restaurants,Food & Drink
+265,PAEJPZXXTQ2M,Signature POS Debit 11/24 6337 KY LEXINGTON AUNTIE ANNES,20.69,Debit,I bought pretzels while shopping at the mall.,Food & Drink / Restaurants,Food & Drink
+381,YYCA2DXN94NG,STOP & SHOP 046 PLYMOUTH /MA US CARD PURCHASE,47.87,Debit,Groceries at Stop & Shop.,Food & Drink / Groceries,Food & Drink
+133,MFVVAY4H7Y4H,DISCOVER E-PAYMENT 6708 WEB ID:999999999,120,Debit,Discover card payment.,Loans / Credit card payment,Loans
+158,WNP9QWD2XJYT,IRS DES:USATAXPYMT,500,Debit,I paid my quarterly taxes.,Government + Non-Profit / Taxes,Government + Non-Profit
+233,G7YACCWXTNEG,8382 Recurring Debit Card Adobe Inc 800-833668,56.17,Debit,Payment for monthly software fee for Adobe products.,General Merchandise / Other,General Services
+206,PAEJPZXXTQ2M,RECURRING DEBIT CARD XXXXX4079 FOR THE LOVE OF ALEX HTTPSWWW.FO PA,52.23,Debit,Donation animal rescue.,Government + Non-Profit / Other donations,Government + Non-Profit
+485,MFVVAY4H7Y4H,Store Purchase SIRIUS XM RADIO INC.,24.74,Debit,Siriusxm payment.,Entertainment / Music,Entertainment
+180,G7YACCWXTNEG,GFM*GOFUNDME PLEASE HE,10.5,Debit,This was a donation I made on GoFundMe to a Uvalde victim’s family.,Government + Non-Profit / Other donations,Government + Non-Profit
+350,YYCA2DXN94NG,POS Withdrawal - PIZZA HUT #014349 13003 SE KENT KANGLEY R2536395560 WAUS - Card Ending In 8349,38.02,Debit,"Got some Pizza Hut, as my brother wanted it.",Food & Drink / Food delivery,Food & Drink
+475,PC663CTNCDXX,NATIONAL LOTTERY I CD 304,5,Debit,Money I paid to the UK National Lottery website to buy a ticket.,Entertainment / Casinos and gambling,Entertainment
+302,J6TM2D4MANTG,Tractor Supply,35.7,Debit,This was for some shirts I bought for my dad's birthday.,General Merchandise / Clothing,General Merchandise
+273,G7YACCWXTNEG,Signature POS Debit 10/30 6337 KY LEXINGTON TACO BELL,14.69,Debit,I had lunch at Taco Bell.,Food & Drink / Restaurants,Food & Drink
+2,MFVVAY4H7Y4H,UBER TRIP 8005928996 /CA US CARD PURCHASE,11.8,Debit,Uber trip from the hospital to my house.,Transportation / Public Transport,Transportation
+74,6XA9X4RD9RAY,ACH Withdrawal CAPITAL ONE ONLINE PMT ONLINE PMT,63.07,Debit,Credit card payment.,Loans / Credit card payment,Loans
+354,WNP9QWD2XJYT,MCDONALD’S F13118,6.87,Debit,I bought breakfast at a nearby McDonald’s.,Food & Drink / Fast food,Food & Drink
+116,MFVVAY4H7Y4H,POS Withdrawal - XFINITY MOBILE 1701 JOHN F KENNEDY BLV888-936-4968 PAUS - Card Ending In 8349,112.48,Debit,I paid for my phone bill (Xfinity Mobile).,Rent & Utilities / Mobile Phone,Rent & Utilities
+511,G7YACCWXTNEG,POS Withdrawal - HELP.HBOMAX.COM Warner Media30 Hudson YNEW YORK NYUS - Card Ending In 8349,16.5,Debit,This is for the HBO Max streaming service.,Entertainment / TV and movies,Entertainment
+375,G7YACCWXTNEG,FENG CHA TEAHOUSE RICHARDSON TX,5.57,Debit,This was for a boba tea.,Food & Drink / Coffee and tea,Food & Drink
+238,PC663CTNCDXX,Misid Divac Sport 3 Kraljevo,25.78,Debit,Money spent on workout clothes and shoes.,General Merchandise / Sporting goods,General Merchandise
+35,WNP9QWD2XJYT,N1119 3042 Payment Nationalgrid_0 Syracuse NY,37.99,Debit,Paid the electric bill.,"Rent & Utilities / Electricity, natural gas and propane energy",Rent & Utilities
+463,4TGHEHM2RVX7,Signature POS Debit 06/11 6337 KY LEXINGTON HALF PRICE BOOK,13.24,Debit,I bought a CD.,Entertainment / Music,Entertainment
+370,G7YACCWXTNEG,DD DOORDASH CHICK-FIL Debit Card,25.32,Debit,I ordered Chick-Fil A through DoorDash.,Food & Drink / Food delivery,Food & Drink
+287,G7YACCWXTNEG,PREZZO* FOOD 96869 LONDON,42.9,Debit,Lunch at a restaurant.,Food & Drink / Restaurants,Food & Drink
+250,G7YACCWXTNEG,DDA PURCHASE *3441 65878001 DOLLAR TR 2640 SIMPSON KISSIMMEE *FL,5.28,Debit,Purchased batteries and paint brushes.,General Merchandise / Other,General Merchandise
+363,G7YACCWXTNEG,DAILY GRINDS,15.23,Debit,This is for the purchase of two coffees and a croissant.,Food & Drink / Coffee and tea,Food & Drink
+269,G7YACCWXTNEG,8382 Debit Card Purchase Solid State Books,49.87,Debit,Book purchases.,General Merchandise / Books,General Merchandise
+237,G7YACCWXTNEG,DEBIT CARD CREDIT 9847649004 VIS 0527 PAYPAL BROOKLYNSTR BR XXXXX7733 CA,120,Credit,Refund for a return of viola case (musical) via paypal refund.,General Merchandise / Product refunds,General Merchandise
+395,PAEJPZXXTQ2M,Meijer 026 ATM / POS,127.18,Debit,This was from a grocery store trip.,Food & Drink / Groceries,Food & Drink
+416,G7YACCWXTNEG,DEBIT CARD PURCHASE XXXXX8046 AMAZON.COM*EW6MV0103 A AMZN.COM/BI WA,40.96,Debit,Bought groceries on Amazon.,Food & Drink / Groceries,Food & Drink
+247,YYCA2DXN94NG,DEBIT CARD PURCHASE XXXXX4094 PORTOFINO PIZZA XXXXX3330 DE,30.94,Debit,Ordered Pizza.,Food & Drink / Restaurants,Food & Drink
+282,G7YACCWXTNEG,NSCA 719-6326722 CO,112.3,Debit,I bought a textbook for a test I will take soon.,General Merchandise / Books,General Merchandise
+505,G7YACCWXTNEG,NSF - PAYPAL REPTRANSFER - RETRY PYMT,25,Debit,I got a NSF fee for not having enough funds in my account.,Bank Transfers / Overdraft fees,Bank Transfers
+516,G7YACCWXTNEG,GROUNDFLOOR GROUNDFLOO IWKFHS9C WEB ID:999999999,100,Debit,Invested $100 dollars with Ground Floor for real estate investments.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+419,MFVVAY4H7Y4H,Target 00019588 Fontana CA,4.61,Debit,I bought an energy drink at Target.,Food & Drink / Groceries,Food & Drink
+246,WNP9QWD2XJYT,PURCHASE AUTHORIZED ON 04/09 RED LOBSTER 0019 olo.com FL S582099727872559 CARD 9052,94.46,Debit,Dining at Red Lobster.,Food & Drink / Restaurants,Food & Drink
+297,YYCA2DXN94NG,06/19 REDLOBSTER ONLINE 0ST PETERSBURGFL,10.46,Debit,Food from Red lobster.,Food & Drink / Restaurants,Food & Drink
+260,J6TM2D4MANTG,Store Purchase AMZN MKTP US*Y775G9RU3,34.23,Debit,Headphones from Amazon. Com.,General Merchandise / Electronics,General Merchandise
+80,PAEJPZXXTQ2M,ACH WEB 32870694 CREDIT ONE BANK PAYMENT,6.25,Debit,Credit card payment.,Loans / Credit card payment,Loans
+160,G7YACCWXTNEG,TELUS INTERNATIO DES:REGEXPENSE ID: XXXXX81950 INDN:KIMBERLY DAVIS CO ID:XXXXX53090 PPD PMT,73.16,Credit,Payment for freelancing work performed online.,"Income / Wages, gig economy, tips",Income
+307,PAEJPZXXTQ2M,DEBIT CARD PURCHASE XXXXX4094 PANERA BREAD 203962 O XXXXX6080 DE,54,Debit,Food purchase panera bread.,Food & Drink / Restaurants,Food & Drink
+79,PAEJPZXXTQ2M,COMENITY PAY OH WEB PYMT P**********3030,103,Debit,Credit card payment.,Loans / Credit card payment,Loans
+387,YYCA2DXN94NG,POS Withdrawal - 554402000592782 Dhotson's Auburn WAUS - Card Ending In 8349,12.81,Debit,I went to a grocery store to get a few things.,Food & Drink / Groceries,Food & Drink
+295,G7YACCWXTNEG,Signature POS Debit 11/12 6337 MO 573-632-1834 Scholastic Edu,11,Debit,I bought a book for my child at the school book fair.,General Merchandise / Books,General Services
+316,PC663CTNCDXX,LATIN DELI - PLANO,40.76,Debit,This was for brunch!.,Food & Drink / Restaurants,Food & Drink
+345,PAEJPZXXTQ2M,POS Withdrawal - Subway 41234 12722 SE 312th Auburn WAUS - Card Ending In 8349,18.2,Debit,I got some Subway sandwiches.,Food & Drink / Fast food,Food & Drink
+484,YYCA2DXN94NG,Google *YoungJoy g.co/helppay#CA,0.99,Debit,I bought something in a video game.,Entertainment / Video games,Entertainment
+324,G7YACCWXTNEG,POS Withdrawal - DOORDASH*BURGER KING 303 2nd StreetSuite 800SAN FRANCISCOCAU - Card Ending In 8349,21.91,Debit,I got some Burger King using DoorDash.,Food & Drink / Food delivery,Food & Drink
+435,G7YACCWXTNEG,RECURRING DEBIT CARD XXXXX4119 GOOGLE *YouTube TV g.co/helppa CA,64.99,Debit,Youtube TV monthly streaming service.,Entertainment / TV and movies,Entertainment
+53,YYCA2DXN94NG,SPI*DUQUESNE LIGHT PAYM 05/19 PURCHASE 412-393-7100 PA,116.65,Debit,Monthly electricity payment for apartment.,"Rent & Utilities / Electricity, natural gas and propane energy",Rent & Utilities
+190,4TGHEHM2RVX7,AVIVA INSURANCE LIMITED PERTH,270.42,Debit,This is my annual home insurance premium.,General Services / Other insurance,General Services
+296,6XA9X4RD9RAY,PwP Scentbird N,3.21,Debit,This is a perfume subscription program.,"General Merchandise / Beauty, cosmetics, personal care items and toiletries",General Services
+320,G7YACCWXTNEG,ConverseUS 180-04282667 MA,64.65,Debit,I bought shoes for a wedding.,General Merchandise / Clothing,General Merchandise
+248,PC663CTNCDXX,TST* PARK AND OCEAN,38.34,Debit,This is a dinner restaurant.,Food & Drink / Restaurants,Food & Drink
+346,PC663CTNCDXX,POS Withdrawal - DOORDASH*CHIPOTLE 303 2nd StreetSuite 800SAN FRANCISCOCAUS - Card Ending In 8349,18.89,Debit,Hadn't had Chipotle in a while so I wanted to have some delivered by DoorDash.,Food & Drink / Food delivery,Food & Drink
+121,WNP9QWD2XJYT,ATM Withdrawal 1121 Washington St West Newton Ma,88.5,Debit,This is a charge from a cannabis dispensary.,Medical / Pharmacies and supplements,Entertainment
+147,PC663CTNCDXX,CITY OF YORK COUNC,150,Credit,A credit from the local city council for over-payment made.,Income / Tax refund,Income
+275,G7YACCWXTNEG,Rugbystrengthcoach 9733931337,9.99,Debit,I bought a workout book.,General Merchandise / Books,General Merchandise
+217,G7YACCWXTNEG,SPC REFUND REFUND *****3029,517.83,Credit,Pell Grant refund.,General Services / Education,General Services
+365,4TGHEHM2RVX7,PAYPAL *DOMINO' 4029357733 /MA - PURCHASE,30.53,Debit,An order from Domino's Pizza.,Food & Drink / Food delivery,Food & Drink
+223,WNP9QWD2XJYT,your-saving.com CD 3041,95,Debit,This was to buy a gift card online.,General Merchandise / Other,General Merchandise
+349,PC663CTNCDXX,Signature POS Debit 06/09 6337 KY 185-9278590 McDonald's,12.53,Debit,I had McDonald's for lunch.,Food & Drink / Fast food,Food & Drink
+406,WNP9QWD2XJYT,TST* Batch Cookies,23.5,Debit,This is a dessert place!.,"Food & Drink / Bakeries, ice cream shops and dessert shops",Food & Drink
+495,4TGHEHM2RVX7,DEBIT CARD PURCHASE XXXXX8046 CASH APPJASON JOHN XXXXX4551 CA,23.45,Debit,Sent money to my brother.,"Bank Transfers / Third-party transfers (Zelle, Paypal, Venmo)",Bank Transfers
+328,WNP9QWD2XJYT,PAYPAL *ARENANE San Jose /CA US CARD PURCHASE,21.25,Debit,Gem purchase in the game Guild Wars 2.,Entertainment / Video games,Entertainment
+519,4TGHEHM2RVX7,PAYPAL TRANSFER ***********8552,20,Credit,Transfer cash in from Paypal to my checking account.,"Bank Transfers / Third-party transfers (Zelle, Paypal, Venmo)",Bank Transfers
+277,4TGHEHM2RVX7,PAYPAL INST XFER INSTANTINK,4.23,Debit,Payment for printer ink subscription.,General Merchandise / Electronics,General Merchandise
+356,J6TM2D4MANTG,POS Withdrawal - UBER EATS 1455 MARKET ST 8005928996 CAUS - Card Ending In 8349,27.49,Debit,I had McDonald's delivered.,Food & Drink / Food delivery,Food & Drink
+10,G7YACCWXTNEG,CRAB & LOBSTER RESTAURA YORK,195,Debit,Hotel room for a night at a friend's wedding.,Travel / Lodging,Travel
+491,G7YACCWXTNEG,Zelle payment from Alex F BACdd8cksye,45,Credit,Received money from a friend via Zelle.,"Bank Transfers / Third-party transfers (Zelle, Paypal, Venmo)",Bank Transfers
+109,G7YACCWXTNEG,MOTOSAVE LTD CD 3041,35,Debit,Payment made to a garage for my car's MOT (UK road worthiness certificate).,Transportation / Automobile maintenance and fees,Transportation
+468,G7YACCWXTNEG,WIRE TYPE: FX OUT,1101.2,Debit,I transferred money into another account.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+335,MFVVAY4H7Y4H,ALLEGNT BUYONBOARD,15,Debit,This was an alcohol purchase on an Allegiant Airlines flight.,Food & Drink / Alcohol & Bars,Food & Drink
+30,G7YACCWXTNEG,POS Withdrawal - PAYPAL *PUGETSOUNDE 7700 EASTPORT PARKWAY 4029357733 WAUS - Card Ending In 8349,82.6,Debit,This is my energy bill.,"Rent & Utilities / Electricity, natural gas and propane energy",Rent & Utilities
+167,PC663CTNCDXX,WalMart CC DES:WM EPAY ID:1738284414 INDN: 6032203774694367 CO ID:9069872103 WEB,120,Debit,Monthly payment on walmart credit card.,Loans / Credit card payment,Loans
+487,PAEJPZXXTQ2M,Alto IRA IRA 75663,10,Debit,Money that I put into an IRA on the Alto app.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+37,PC663CTNCDXX,ONLINE TRANSFER REF #2B0JD67HD TO MORTGAGE XXXXXX2345 IB 6/01/22,900,Debit,Mortgage payment.,Loans / Mortgage payments,Loans
+175,G7YACCWXTNEG,ONLINE PMT CAPITAL ONE WEB,1101.65,Debit,It was paying off a Capital One credit card statement.,Loans / Credit card payment,Rent & Utilities
+163,G7YACCWXTNEG,BK OF AMER VISA ONLINE PMT,63.39,Debit,Credit card payment.,Loans / Credit card payment,Loans
+339,J6TM2D4MANTG,POS Withdrawal - PIZZA HUT #014349 13003 SE KENT KANGLEY R2536395560 WAUS - Card Ending In 8349,33.01,Debit,Got some Pizza Hut for my brother and I.,Food & Drink / Food delivery,Food & Drink
+321,PAEJPZXXTQ2M,DEBIT CARD PURCHASE XXXXX4094 AMZN Mktp US*2C2OJ0KZ3 Amzn.com/bi WA,26.25,Debit,Amazon purchase of bed sheets.,General Merchandise / Houseware,General Merchandise
+146,MQGN7N3PKYRA,BKOFAMERICA MOBILE 05/28 XXXXX98362 DEPOSIT *MOBILE PA,4.56,Credit,Cashed a personal check through mobile app.,Income / Other,Income
+373,G7YACCWXTNEG,POS Withdrawal - DOORDASH*BIGFOOT JAVA 303 2nd StreetSuite 800SAN FRANCISCOCA - Card Ending In 8349,17.19,Debit,I wanted some coffee in the morning. This is a coffee stand.,Food & Drink / Coffee and tea,Food & Drink
+230,PC663CTNCDXX,AMZN Mktp US*0I9UT48Q3,131.5,Debit,I bought some random stuff from Amazon.,General Merchandise / Other,General Merchandise
+138,G7YACCWXTNEG,H&R BLOCK TAX SOFTWARE 800-472-5625 MO,70.31,Debit,This was for tax completion software for five people.,Government + Non-Profit / Taxes,Government + Non-Profit
+319,MQGN7N3PKYRA,Hudson ST1246 Carson,6.02,Debit,I bought an energy drink at the airport.,Food & Drink / Vending machines,Food & Drink
+240,YYCA2DXN94NG,DAISO TX03 PLN PLANO TX,15.76,Debit,This was a mixture of gift purchases and shopping.,General Merchandise / Other,General Merchandise
+522,G7YACCWXTNEG,Final Dispute Credit,12.73,Credit,Refunded for an incorrect transaction.,Bank Transfers / Bank refunds,Bank Transfers
+155,J6TM2D4MANTG,Web Pmt Recur- Directpay Capital One Auto 006208810843340,64.31,Debit,Biweekly auto loan payment.,Loans / Car loan payments,Loans
+216,PAEJPZXXTQ2M,Microsoft *Microsoft 365 PMSBill info wa,6.99,Debit,I paid for my Microsoft Subscription.,General Services / Cloud storage,General Services
+288,G7YACCWXTNEG,VENMO PAYMENT 220604 1020496673972 C B,25,Debit,This is for a purchase of a used coffee maker on Facebook Marketplace.,General Merchandise / Online marketplaces,General Merchandise
+188,MFVVAY4H7Y4H,RECURRING DEBIT CARD XXXXX4153 USAA INSURANCE PAYMENT XXXXX8111 TX,101.59,Debit,Auto Bi monthly Auto Insurance payment.,General Services / Auto insurance,General Services
+482,PAEJPZXXTQ2M,TME*TIME 855-227-9517 NY,2,Debit,This is for a magazine subscription.,Entertainment / Other,Entertainment
+408,WNP9QWD2XJYT,DEBIT CARD PURCHASE XXXXX4094 SHOPRITE CHRSTNALANDNG XXXXX9139 DE,101.96,Debit,Supermarket purchase of groceries.,Food & Drink / Groceries,Food & Drink
+285,WNP9QWD2XJYT,POS Withdrawal - PHO U PLUS BURGER 12722 SE 312TH ST AP AUBURN WAUS - Card Ending In 8349,21.64,Debit,I walked to this restaurant to order some food.,Food & Drink / Restaurants,Food & Drink
+396,G7YACCWXTNEG,KROGER 0581,20.38,Debit,This was for groceries.,Food & Drink / Groceries,Food & Drink
+436,J6TM2D4MANTG,PEACOCK 1E845 PREMIUM,4.99,Debit,I made my monthly payment for my Peacock streaming service.,Entertainment / TV and movies,Entertainment
+467,MQGN7N3PKYRA,SPOTIFY 06/03 PURCHASE 877-778-1161 NY,10.69,Debit,Monthly automatic premium Spotify payment.,Entertainment / Music,Entertainment
+164,4TGHEHM2RVX7,CHASE CREDIT CRD,217.14,Debit,This is my credit card payment!.,Loans / Credit card payment,Loans
+108,G7YACCWXTNEG,COMCAST BOSTON 800-266-2278 /NH US CARD PURCHASE,64.87,Debit,Monthly Internet bill for Xfinity/Comcast.,Rent & Utilities / Internet,Rent & Utilities
+502,G7YACCWXTNEG,International POS Fee Vis 0420 Sg,0.37,Debit,Fee incurred due to international purchase.,Bank Transfers / Foreign transaction fees,Bank Transfers
+490,G7YACCWXTNEG,PNC Express Funds Fee,15,Debit,Fee incurred when cashing a mobile check and needing funds immediately.,Bank Transfers / Other bank fees,Bank Transfers
+130,G7YACCWXTNEG,POS Deposit - PAYPAL*Clarke H PAYPAL*Clarke H San Jose CAUS - Card Ending In 8339,12.52,Credit,This is income from gig work.,"Income / Wages, gig economy, tips",Income
+42,MQGN7N3PKYRA,AFFIRM INC AFFIRM PAY ***4759,12.57,Debit,Payment on Affirm loan.,Loans / Personal loans,Loans
+454,4TGHEHM2RVX7,AMZN Digital 888-802-3080 WA 05/07,5.34,Debit,Movie Rental.,Entertainment / TV and movies,Entertainment
+139,YYCA2DXN94NG,ACH CREDIT E39518419 DELAWARE - DCSE1 DE10000,420.5,Credit,Child support direct deposit received.,"Income / Child support, alimony",Income
+73,G7YACCWXTNEG,ONLINE PMT CAPITAL ONE WEB,100,Debit,It was making a payment towards my Capital One credit card balance.,Loans / Credit card payment,Loans
+283,WNP9QWD2XJYT,Etsy.com - ThreeofUsLLC 4/18 PURCHASE XXX-XX93879 NY,24.55,Debit,I purchased a candle on Etsy.,General Merchandise / Online marketplaces,General Merchandise
+178,WNP9QWD2XJYT,AMEX EPAYMENT ACH PMT,100,Debit,This was a payment on my American Express credit card.,Loans / Credit card payment,Loans
+494,J6TM2D4MANTG,MONEY XFER CR PAYPAL,57.33,Credit,I got paid for some freelance work.,"Bank Transfers / Third-party transfers (Zelle, Paypal, Venmo)",Bank Transfers
+507,PC663CTNCDXX,Cash App*Cash Out CARD#8046,39.3,Credit,Transferred money from my Cash App account to my bank.,"Bank Transfers / Third-party transfers (Zelle, Paypal, Venmo)",Bank Transfers
+385,G7YACCWXTNEG,POS DEBIT Walmart.com Bentonville AR,7,Debit,Walmart delivery tip.,Food & Drink / Groceries,Food & Drink
+384,PC663CTNCDXX,ASDA STORES YORK,2.29,Debit,This was for a couple of items from the supermarket I'd ran out of.,Food & Drink / Groceries,Food & Drink
+272,MFVVAY4H7Y4H,DM Filijala 130 Kraljevo,23.86,Debit,I got something for my house.,General Merchandise / Houseware,General Merchandise
+5,YYCA2DXN94NG,ENTERPRISE RENT A CAR E EGHAM,91.24,Debit,Car rental charge.,Travel / Rental cars,Travel
+137,WNP9QWD2XJYT,Interest Credit Interest Income,1.35,Credit,This is a credit for interest on a savings account balance.,"Income / Interest, investment returns, and dividends",Income
+253,6XA9X4RD9RAY,PAYPAL *MOONPIGCOML 08454500100,3.64,Debit,Buying greetings cards from a website.,General Merchandise / Other,General Merchandise
+394,6XA9X4RD9RAY,POS Withdrawal - 31779671 DOLLARTRE 12722 SE 312 AUBURN WAUS - Card Ending In 8349,10.33,Debit,I got a couple of food items at the Dollar Tree near me.,Food & Drink / Groceries,Food & Drink
+457,WNP9QWD2XJYT,DEBIT AUTHORIZATION Jun15 03:42p 1459 AT 15:42 CKO*PATREON* MEMBE 833-9728766,3,Debit,Patreon membership.,Entertainment / Other,Entertainment
+143,6XA9X4RD9RAY,Dividend/Interest,0.05,Credit,This is just general interest from the bank.,"Income / Interest, investment returns, and dividends",Income
+215,J6TM2D4MANTG,BARCLAYCARD US,198.57,Debit,This is our credit card payment!.,Loans / Credit card payment,Loans
+96,PC663CTNCDXX,COLLIN VEHREG,73.25,Debit,This was for my vehicle registration.,Transportation / Automobile maintenance and fees,Transportation
+59,J6TM2D4MANTG,FPL DIRECT DEBIT,93.15,Debit,This is my electricity bill.,"Rent & Utilities / Electricity, natural gas and propane energy",Rent & Utilities
+379,G7YACCWXTNEG,DEBIT CARD PURCHASE XXXXX8046 INSTACART*ALDI HTTPSINSTAC CA,14.07,Debit,Grocery delivery fees.,Food & Drink / Groceries,Food & Drink
+192,WNP9QWD2XJYT,PAYPAL INST XFER 220603,25,Debit,Donation to a non profit made through paypal.,Government + Non-Profit / Other donations,Government + Non-Profit
+150,PC663CTNCDXX,INTEREST PAYMENT,0.06,Credit,Interest paid on account.,"Income / Interest, investment returns, and dividends",Income
+76,MFVVAY4H7Y4H,OPPFINANC PAYMENT,158.59,Debit,I made a payment on an installment loan I have with OppLoans.,Loans / Personal loans,Loans
+185,6XA9X4RD9RAY,DEBIT PURCHASE Jun13 05:58a 1459 AT 05:58 APPLE.COM/BILL 866-712-7753 CA,3,Debit,Apple iCloud storage.,General Services / Cloud storage,General Services
+129,WNP9QWD2XJYT,ACH CREDIT XXXXX6929X4C ACE AMERICAN INS DIRECT DEP,1189.15,Credit,Direct Deposit from Job.,"Income / Wages, gig economy, tips",Income
+446,PAEJPZXXTQ2M,TRNSFR CR PENTAGON FEDERAL WEB,900,Credit,I made a bank transfer and this was the side of the transaction that received the funds (I own both accounts).,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+182,PC663CTNCDXX,Interest,0.25,Credit,I earned interest from my checking account.,"Income / Interest, investment returns, and dividends",Income
+141,G7YACCWXTNEG,Interest Paid,0.06,Credit,Interest payment for my savings account.,"Income / Interest, investment returns, and dividends",Income
+27,6XA9X4RD9RAY,Signature POS Debit 10/12 6337 KY LEXINGTON WALGREENS,20.64,Debit,I paid for some medicine.,Medical / Pharmacies and supplements,Medical
+88,PAEJPZXXTQ2M,HALFORDS LIMITED - E.CO REDDITCH,20,Debit,This is for some replacement windscreen wipers for my car.,Transportation / Automobile maintenance and fees,Transportation
+169,4TGHEHM2RVX7,Ibotta Colorado,20,Credit,"This is money earned through a grocery coupon app, Ibotta.",Income / Other,Income
+218,J6TM2D4MANTG,Capital One Card Pymt D 02/07 PURCHASE XXX-XX57070 VA,25.19,Debit,Credit card payment to Capital One.,Loans / Credit card payment,Loans
+289,4TGHEHM2RVX7,SQ *Glo's Corner Cafe #2 San BernadinCA,11,Debit,I bought a sandwich and some chips at a cafe.,Food & Drink / Restaurants,Food & Drink
+427,PC663CTNCDXX,8382 Recurring Debit Card Spotify 877-7781161,10.69,Debit,Monthly Spotify subscription service.,Entertainment / Music,Entertainment
+284,YYCA2DXN94NG,DEBIT CARD PURCHASE XXXXX4094 OLAYCOM XXXXX5170 OH,64.76,Debit,Online purchase skin care at Olay. Com.,"General Merchandise / Beauty, cosmetics, personal care items and toiletries",General Merchandise
+274,G7YACCWXTNEG,GRACE BRIDGE RESALE OF FRFRISCO TX,7.58,Debit,This is for a few shirts at a thrift store.,General Merchandise / Clothing,General Merchandise
+501,MFVVAY4H7Y4H,ATM Fee Reimbursement,10,Credit,Reimbursement from Ally for ATM fees from other banks.,Bank Transfers / ATM fees,Bank Transfers
+92,G7YACCWXTNEG,COLLIN VEHREG,73.25,Debit,This was for my vehicle registration.,Transportation / Automobile maintenance and fees,Transportation
+67,YYCA2DXN94NG,Monterey/Credova Web PMTS Electronic Debit,101.7,Debit,I made a payment on an installment loan that was for a big purchase.,Loans / Personal loans,Loans
+212,4TGHEHM2RVX7,Academy Sports,6.48,Debit,This was for a strap to help working out.,General Merchandise / Sporting goods,General Merchandise
+208,G7YACCWXTNEG,DEBIT CARD PURCHASE XXXXX4094 FBPAY *Gregorio Cut Y pay.fb.com CA,30,Debit,Payment via fbpay for lawn service.,General Services / Home Repair + Maintenance,General Services
+20,J6TM2D4MANTG,parkreceipts.com -V,6.15,Debit,This is a pay-by-phone parking!.,Transportation / Parking,Transportation
+509,G7YACCWXTNEG,PNC PURCHASE PAYBACK AWARD,1.92,Credit,This is a Banking Reward for using a restaurant they listed for the month.,Bank Transfers / Banking rewards,Bank Transfers
+34,G7YACCWXTNEG,METRO COMMUNITY HEALTH 05/13 PURCHASE XXX-XX72310 PA,0.65,Debit,Amount not covered by health insurance and owed to primary physician.,"Medical / Primary, dental, eye, and nursing care",Medical
+400,WNP9QWD2XJYT,ASDA STORES YORK,4,Debit,Items from the supermarket.,Food & Drink / Groceries,Food & Drink
+214,6XA9X4RD9RAY,TD ZELLE SENT 216400K00NGR Zelle SOLID ROCK COMM,20,Debit,Sent $20 via Zella to Solid Rock Community Church.,Government + Non-Profit / Other donations,Government + Non-Profit
+499,G7YACCWXTNEG,06/18 CASH APP*CASH OUT VISA DIRECT CA,24.56,Credit,Reimbursement from a friend.,"Bank Transfers / Third-party transfers (Zelle, Paypal, Venmo)",Bank Transfers
+231,PC663CTNCDXX,AMZN Mktp US*M19EC9HC4,71.9,Debit,Sporting equipment on Amazon.,General Merchandise / Sporting goods,General Merchandise
+110,G7YACCWXTNEG,MEIJER 050 GAS STA ATM/POS,30.05,Debit,I bought gas at the gas station.,Transportation / Gas,Transportation
+64,MFVVAY4H7Y4H,Payment to Chase card ending in 9999 5/11,20.5,Debit,Chase credit card payment.,Loans / Credit card payment,Loans
+229,G7YACCWXTNEG,Amazon.com 03/23 REFUND Amzn.com/bill WA,11.99,Credit,Needed to return a product to Amazon and received a refund.,General Merchandise / Product refunds,General Services
+40,PC663CTNCDXX,Bill Pay Check 5147: KEFALOS & ASSOCIATES,550,Debit,Bill pay sent via check through bank to landlord for rent.,Rent & Utilities / Rent,Rent & Utilities
+299,MFVVAY4H7Y4H,SALAD AND GO #1401,14.16,Debit,"This was for lunch, from a place called Salad and Go.",Food & Drink / Restaurants,Food & Drink
+47,PC663CTNCDXX,ACH WEB XXXXX5137 JPMORGAN CHASE EXT TRNSFR,668.29,Debit,Online mortgage payment.,Loans / Mortgage payments,Loans
+162,YYCA2DXN94NG,Payment Thank You-Mobile,1043.24,Debit,This is the payment of my credit card bill.,Loans / Credit card payment,Loans
+177,G7YACCWXTNEG,CITY OF YORK GENER 23590804 8823938269,185,Debit,City council tax bill.,Government + Non-Profit / Taxes,Government + Non-Profit
+371,G7YACCWXTNEG,Burger King - HIA SN1048 DOHA,23.27,Debit,Food at Burger King.,Food & Drink / Fast food,Food & Drink
+480,G7YACCWXTNEG,PAYPAL *GOOGLE San Jose /CA US CARD PURCHASE,5.3,Debit,Tokens for mobile game through Google Play.,Entertainment / Video games,Entertainment
+336,G7YACCWXTNEG,POS Withdrawal - DOORDASH*MCDONALDS 303 2nd StreetSuite 800SAN FRANCISCOCAUS - Card Ending In 8349,33.95,Debit,I ordered some food from McDonald's.,Food & Drink / Food delivery,Food & Drink
+476,MFVVAY4H7Y4H,ACH Deposit from Wilmington Savings Fund Society F,250,Credit,Transfer from one checking account to another.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+317,MFVVAY4H7Y4H,So PT Coronado Cafe Las Vegas NV,26.02,Debit,I bought food at a restaurant.,Food & Drink / Restaurants,Food & Drink
+54,G7YACCWXTNEG,TJX Rewards MC TJX EPAY *****1118,91,Debit,Credit card payment.,Loans / Credit card payment,Loans
+170,G7YACCWXTNEG,Dividend/Interest,0.16,Credit,Interest payment from my bank.,"Income / Interest, investment returns, and dividends",Income
+165,PAEJPZXXTQ2M,ACH Withdrawal BARCLAYCARD US CREDITCARD,97.81,Debit,Credit card payment.,Loans / Credit card payment,Loans
+398,G7YACCWXTNEG,Patel Brothers,8.39,Debit,This is for groceries.,Food & Drink / Groceries,Rent & Utilities
+472,PC663CTNCDXX,SPOTIFY MUSIC SUBS USD RECURRING,11.3,Debit,Recurring Spotify monthly subscription fee.,Entertainment / Music,Entertainment
+14,MFVVAY4H7Y4H,"Payment,E-Check Payment Passportservices1060",130,Debit,Passport Fees.,Travel / Other,Travel
+281,PC663CTNCDXX,POS Purchase Dollar Tree Chelsea Ma,70.3,Debit,Purchased some household items.,General Merchandise / Houseware,General Merchandise
+249,PC663CTNCDXX,POS Withdrawal - PHO U PLUS BURGER 12722 SE 312TH ST AP AUBURN WAUS - Card Ending In 8349,21.64,Debit,I ate some food at Pho U restaurant.,Food & Drink / Restaurants,Food & Drink
+28,YYCA2DXN94NG,CITI CARD ONLINE PAYMENT 220602,37.5,Debit,Citi credit card payment.,Loans / Credit card payment,Loans
+159,G7YACCWXTNEG,Particle Media,166,Credit,I got paid for some writing work I did.,"Income / Wages, gig economy, tips",Income
+378,G7YACCWXTNEG,POS Withdrawal - DOORDASH*TACO BELL 303 2nd StreetSuite 800SAN FRANCISCOCAUS - Card Ending In 8349,23.5,Debit,I got some Taco Bell from DoorDash.,Food & Drink / Fast food,Food & Drink
+213,PC663CTNCDXX,TAX FREE CHILDCARE CD 3041 14MAY22,1300,Debit,Money paid to a government service to save tax on childcare costs.,General Services / Childcare,General Services
+461,4TGHEHM2RVX7,RECURRING DEBIT CARD XXXXX4083 Peacock E0F5D PremPlus XXXXX0138 NY,5,Debit,Peacock streaming service add on Fee (monthly premium).,Entertainment / TV and movies,Entertainment
+193,G7YACCWXTNEG,POS SIG 01/05 VISA #7297 SPC WEB ONLINE 727-341-4763 FL,573.75,Debit,College tuition.,General Services / Education,General Services
+245,G7YACCWXTNEG,DEBIT CARD PURCHASE XXXXX4094 MCDONALD'S F10394 NEW CASTLE PA,19.18,Debit,Fast Food purchase.,Food & Drink / Restaurants,Food & Drink
+65,PC663CTNCDXX,Gexa Energy,57.39,Debit,This is my electricity/energy bill.,"Rent & Utilities / Electricity, natural gas and propane energy",Rent & Utilities
+504,G7YACCWXTNEG,Bank - Transaction Fee,10,Debit,I got charged for an accidental cash withdrawal.,Bank Transfers / Overdraft fees,Bank Transfers
+124,YYCA2DXN94NG,BEST BUY PAYMENT 600741018443990 WEB ID: CITICTP,30,Debit,Credit Card Payment.,Loans / Credit card payment,Loans
+331,4TGHEHM2RVX7,SQ *MUDLEAF COFFEE Plano TX,14.32,Debit,This is for coffee drinks.,Food & Drink / Coffee and tea,Food & Drink
+280,J6TM2D4MANTG,CHECKCARD 1108 WENDYS 523 SWISSVALE PA 24445008313500386313834,14.87,Debit,Paid for fast food lunch at Wendy's.,Food & Drink / Restaurants,Entertainment
+294,6XA9X4RD9RAY,DD *DOORDASH DUMPLIN CARD#8046,26.29,Debit,Ordered dumplings on DoorDash.,Food & Drink / Restaurants,Food & Drink
+312,PAEJPZXXTQ2M,Dollartree,9.18,Debit,I bought shaving stuff at the dollar store.,"General Merchandise / Beauty, cosmetics, personal care items and toiletries",General Merchandise
+127,PC663CTNCDXX,ACH WEB PAYMENT 20C276F4BE37452 PRIME TRUST LLC PHNW BINAN,438.94,Credit,Transfer from investment account.,"Income / Interest, investment returns, and dividends",Income
+241,G7YACCWXTNEG,AMAZON.COM*8A0A SEATTLE /WA US CARD PURCHASE,5.98,Debit,A book on Amazon.,General Merchandise / Books,General Merchandise
+209,J6TM2D4MANTG,POS SIG 04/17 VISA #7297 ANC*ANCESTRY.COM 800-2623787 UT,39.99,Debit,Ancestry. Com membership.,General Services / Other non-entertainment online subscriptions,General Services
+255,G7YACCWXTNEG,Debit Card Credit Uber 800-5928996 Ca,34.24,Credit,A refund from Uber Eats.,Food & Drink / Restaurants,Food & Drink
+362,MFVVAY4H7Y4H,STARBUCKS 800-782-7282 800-782-7282 WA,25,Debit,This is reloading my Starbucks funds on the mobile app.,Food & Drink / Coffee and tea,Food & Drink
+465,G7YACCWXTNEG,HELP.HBOMAX.COM Debit Card,14.99,Debit,This is my monthly HBO Max subscription payment.,Entertainment / TV and movies,Entertainment
+26,G7YACCWXTNEG,DEBIT CARD PURCHASE XXXXX4094 RITE AID - PAY AND GO ETTERS PA,20.25,Debit,Paid for prescriptions to be delivered to my house.,Medical / Pharmacies and supplements,Medical
+459,WNP9QWD2XJYT,FCB FUNDS TRANSFER TO X3428,35,Debit,Transfer between checking accounts.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+50,G7YACCWXTNEG,ATM W/D 89 WEBSTER CARD#8046,38.5,Debit,Made a purchase at a dispensary.,Medical / Pharmacies and supplements,Medical
+135,G7YACCWXTNEG,Stripe DES:TRANSFER,10.07,Credit,I got paid for some writing work that I did.,"Income / Wages, gig economy, tips",Income
+500,MQGN7N3PKYRA,ATM WITHDRAWAL FEE,3,Debit,ATM fees.,Bank Transfers / ATM fees,Bank Transfers
+148,G7YACCWXTNEG,ACH Withdrawal PAYMENT FOR AMZ STORECARD~ Future Amount: 269.64 ~ Tran:ACHDW STORECARD,269.64,Debit,Paid balance on Amazon Credit Card.,Loans / Credit card payment,Loans
+142,PC663CTNCDXX,Monthly Interest Paid,6.29,Credit,Monthly interest paid by my Capital One saving account.,"Income / Interest, investment returns, and dividends",Income
+69,G7YACCWXTNEG,Covid Clinic Covid-19,149,Debit,I had to pay for a covid test.,Medical / Pharmacies and supplements,Medical
+515,WNP9QWD2XJYT,IVY HELENA SYLVIE CHRISTMAS 21 27JAN22,25,Debit,Money transferred to my daughter's account on behalf of someone else as a Christmas present.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+267,PC663CTNCDXX,YORK CINNABON CD 3041,3.49,Debit,A quick visit to Cinnabon for a coffee and pastry.,Food & Drink / Restaurants,Food & Drink
+442,J6TM2D4MANTG,RECURRING DEBIT CARD XXXXX6147 Netflix.com netflix.com CA,19.99,Debit,This is a payment for my Netflix subscription.,Entertainment / TV and movies,Entertainment
+361,6XA9X4RD9RAY,POS Withdrawal - DOORDASH*MCDONALDS 303 2nd StreetSuite 800SAN FRANCISCOCAUS - Card Ending In 8349,25.76,Debit,I got McDonald's again. I get food from there quite a bit when I can.,Food & Drink / Fast food,Food & Drink
+380,PC663CTNCDXX,Amazon.com*2C5PG5OQ0 03/22 PURCHASE Amzn.com/bill WA,39.36,Debit,Purchased groceries from Whole Foods via Amazon Prime membership.,Food & Drink / Groceries,Food & Drink
+383,MFVVAY4H7Y4H,TRADER JOE'S #776,70.65,Debit,I bought groceries for the week!.,Food & Drink / Groceries,Rent & Utilities
+359,6XA9X4RD9RAY,DEBIT CARD PURCHASE XXXXX4094 BRUSTERS ICE CREAM NEWARK DE,16.4,Debit,I purchased ice cream at ice cream shop.,"Food & Drink / Bakeries, ice cream shops and dessert shops",Food & Drink
+479,G7YACCWXTNEG,PP*GOOGLE KING CARD#8046,3.18,Debit,Video game in-app purchase.,Entertainment / Video games,Entertainment
+220,G7YACCWXTNEG,GOFNDME* HELP GIVE KIR 04/07 PURCHASE WWW.GOFUNDME. CA,25,Debit,Donated money to friend's GoFundMe page.,Government + Non-Profit / Other donations,Government + Non-Profit
+171,PC663CTNCDXX,DEBIT CARD PURCHASE XXXXX4094 ACTBLUE* DNC HTTPSSECURE MA,25,Debit,Political Donation.,Government + Non-Profit / Political donations,Government + Non-Profit
+473,6XA9X4RD9RAY,MTTSB 0018,2200,Debit,Money I transferred to my joint account with my wife.,"Bank Transfers / Transfers to checking, savings, retirement accounts and other investment accounts",Bank Transfers
+341,G7YACCWXTNEG,POS Withdrawal - DOORDASH*DENNYS 303 2nd StreetSuite 800SAN FRANCISCOCAUS - Card Ending In 8349,23.6,Debit,I ordered Denny's (a restaurant) off of DoorDash.,Food & Drink / Food delivery,Food & Drink
+32,PC663CTNCDXX,FEB_CreditFresh Funding Direct Deposit,150,Credit,I received a deposit from the installment loan I made a draw from.,Loans / Personal loans,Loans
+219,G7YACCWXTNEG,HOT WORX FL0013,63.13,Debit,This is a gym membership.,General Services / Health + Fitness,General Services
+117,J6TM2D4MANTG,Signature POS Debit 02/12 6337 KY LEXINGTON UK HEALTHCARE,29.26,Debit,I made a payment towards a medical bill.,"Medical / Primary, dental, eye, and nursing care",Medical
+424,G7YACCWXTNEG,POS Withdrawal - PAYPAL *DISNEY PLUS 7700 EASTPORT PARKWAY 4029357733 CAUS - Card Ending In 8349,8.8,Debit,This is for my Disney Plus membership.,Entertainment / TV and movies,Entertainment
+257,4TGHEHM2RVX7,119 HONEY GROW E LIBER 05/31 PURCHASE olo.com PA,36.67,Debit,Online payment for delivery from restaurant.,Food & Drink / Restaurants,Food & Drink
+481,YYCA2DXN94NG,3042 Recurring Debit Card Viacomcbs Streaming,4.99,Debit,Fees for Paramount+ streaming service.,Entertainment / TV and movies,Entertainment
+492,4TGHEHM2RVX7,NON-PNC ATM SURCHARGE REIMBURSEMENT,3.5,Credit,Reimbursed for ATM fees.,Bank Transfers / ATM fees,Bank Transfers
+422,J6TM2D4MANTG,AMZN Mktp US*,41.57,Debit,I bought candy on Amazon.,Food & Drink / Groceries,Food & Drink
+115,YYCA2DXN94NG,XFINITY MOBILE 2/07 PURCHASE 888-936-4968 PA,18.03,Debit,Monthly cell phone usage.,Rent & Utilities / Mobile Phone,Rent & Utilities
+506,6XA9X4RD9RAY,cardtronics ccs 99 staf worcester,63.25,Debit,ATM Withdrawal.,Bank Transfers / ATM withdrawals,Bank Transfers
+513,YYCA2DXN94NG,ATM TRANSACTION FEE REIMBURSEMENT,3,Credit,Fees reimbursed.,Bank Transfers / ATM fees,Bank Transfers
+45,G7YACCWXTNEG,ONLINE PAYMENT WEST DES MOIN,190.25,Debit,This is paying my credit card bill.,Loans / Credit card payment,Loans
+98,4TGHEHM2RVX7,YORKSHIRE WATER 22606465 29123 4564 5343,103.8,Debit,Water utility bill.,Rent & Utilities / Water,Rent & Utilities
+428,G7YACCWXTNEG,Signature POS Debit 10/22 6337 WA 888-802-3080 Prime Video,3.24,Debit,I rented a movie on Prime video.,Entertainment / TV and movies,Entertainment
+443,G7YACCWXTNEG,NETFLIX.COM 866-579-7172,9.99,Debit,Monthly Netflix fee.,Entertainment / TV and movies,Entertainment
+44,G7YACCWXTNEG,SHELL ENERGY 07233854 4085969A-012,122,Debit,Electricity and gas combined bill.,"Rent & Utilities / Electricity, natural gas and propane energy",Rent & Utilities
+409,MQGN7N3PKYRA,POS Withdrawal - DOORDASH*SAFEWAY 303 2nd StreetSuite 800SAN FRANCISCOCAUS - Card Ending In 8349,132.33,Debit,I bought some groceries from Safeway using DoorDash.,Food & Drink / Groceries,Food & Drink
+105,YYCA2DXN94NG,ACH WEB CKFXXXXX8763POS ARTESIAN WATER ONLINE PMT,70,Debit,Online Payment for water bill.,Rent & Utilities / Water,Rent & Utilities
+306,MFVVAY4H7Y4H,RECURRING DEBIT CARD XXXXX4142 The News Journal XXXXX0491 IN,3.25,Debit,Online subscription to digital local newspaper.,General Merchandise / Other,General Merchandise
+411,G7YACCWXTNEG,POS Withdrawal - DOORDASH*7-ELEVEN 303 2nd StreetSuite 800SAN FRANCISCOCAUS - Card Ending In 8349,19.02,Debit,I bought some grocery items from 7/11.,Food & Drink / Groceries,Food & Drink
+313,PAEJPZXXTQ2M,DELIVEROO LONDON,30.36,Debit,This was for a takeaway delivery.,Food & Drink / Restaurants,Food & Drink
+102,G7YACCWXTNEG,Sell Oil 12727169000 Las Vegas NV,9.92,Debit,I bought a couple bucks of gas.,Transportation / Gas,Transportation
+360,G7YACCWXTNEG,DEBIT CARD PURCHASE XXXXX4094 SHOPRITE CHRSTNALANDNG XXXXX9139 DE,81.9,Debit,Purchased groceries at supermarket.,Food & Drink / Groceries,Food & Drink
+144,MFVVAY4H7Y4H,CHASE CREDIT CRD EPAY 220612,1407,Debit,Paid credit card off.,Loans / Credit card payment,Loans
+508,YYCA2DXN94NG,Zelle Money Received,60,Credit,Received $60 from a friend as a reimbursement.,"Bank Transfers / Third-party transfers (Zelle, Paypal, Venmo)",Bank Transfers
+66,6XA9X4RD9RAY,POS Withdrawal - PAYPAL *PUGETSOUNDE 7700 EASTPORT PARKWAY 4029357733 WAUS - Card Ending In 8349,52.13,Debit,I paid part of the electricity bill.,"Rent & Utilities / Electricity, natural gas and propane energy",Rent & Utilities
+414,G7YACCWXTNEG,Pinned POS Debit 10/30 6337 KY LEXINGTON WM SUPERCENTER,34.17,Debit,I bought groceries.,Food & Drink / Groceries,Food & Drink
+470,PC663CTNCDXX,RAILWAY MUSEUM CD 3041 20MAR22,9,Debit,A payment made while at a museum for my children to go on a special ride.,Entertainment / Amusement Parks,Entertainment
+126,4TGHEHM2RVX7,External Withdrawal - HONDA PMT - 8004451358,564.73,Debit,This is for a car payment.,Loans / Car loan payments,Loans
+399,PC663CTNCDXX,SAMS SCAN-N-GO,92.08,Debit,This is for bulk groceries.,Food & Drink / Groceries,Food & Drink
+104,WNP9QWD2XJYT,TESCO MOBILE 05035486 330147133697A-0006,7.5,Debit,Mobile phone bill.,Rent & Utilities / Mobile Phone,Rent & Utilities
+353,WNP9QWD2XJYT,RECURRING XX4163 WWWDINNERLYCOM HTTPSDINNER NY,40.66,Debit,Weekly meal service kit delivery.,Food & Drink / Food delivery,Food & Drink
+447,J6TM2D4MANTG,Netflix.com netflix.com CA,19.99,Debit,Monthly payment for my Netflix account.,Entertainment / TV and movies,Entertainment
+154,G7YACCWXTNEG,NSCA 719-6326722 CO,130,Debit,I paid for a professional membership.,General Services / Other,General Services
+12,PC663CTNCDXX,LYFT 2 RIDES 05-26 Debit Card,93.45,Debit,This was the cost of taking two Lyft rides in Florida.,Transportation / Taxis and ride shares,Transportation
+389,PAEJPZXXTQ2M,AMAZON.COM SEATTLE /WA - PRE-AUTH.,10.61,Debit,Pudding from Amazon.,Food & Drink / Groceries,Food & Drink
+52,G7YACCWXTNEG,DEBIT CARD PURCHASE XXXXX4094 BROOKWOODMED HTTPSBROOKW NJ,31.2,Debit,Purchase at a medical supply company.,Medical / Pharmacies and supplements,Medical
+205,J6TM2D4MANTG,PROGRESSIVE *INSURANCE#2469216H82X84Z5F2,443,Debit,Six month car insurance premium.,General Services / Auto insurance,General Services
+189,G7YACCWXTNEG,MPPOA MUNC DRIVEWAY 22FEB22 16:11,210,Debit,Money sent to the local resident's association related to have my driveway resurfaced.,General Services / Home Repair + Maintenance,General Services
+377,MFVVAY4H7Y4H,POS Withdrawal - DOORDASH*QDOBA MEXICAN 303 2nd StreetSuite 800SAN FRANCISCOC - Card Ending In 8349,26.54,Debit,"I ordered some Qdoba, which is a restaurant chain.",Food & Drink / Food delivery,Rent & Utilities
