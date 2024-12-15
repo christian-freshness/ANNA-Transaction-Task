@@ -61,11 +61,11 @@ The quality check script generates a classification report (report.txt) by compa
 ### Usage
 To run the script, execute the following command:
 ``` bash
-python quality_check.py --input <path_to_dataset.csv>
+python quality_check.py --input <path_to_dataset.csv> --output <path_to_output.txt>
 ```
 Example:
 ``` bash
-python quality_check.py --input data/transactions.csv
+python quality_check.py --input data/transactions.csv --output output/output.txt
 ```
 ### Output
 The script saves the classification report to the output directory as report.txt. Ensure this directory exists, or create it before running the script.
