@@ -1,4 +1,4 @@
-default_stages: [commit, push]
+default_stages: [pre-commit, pre-push]
 default_language_version:
   python: python3.12
 
@@ -7,16 +7,22 @@ repos:
     rev: v2.2.0
     hooks:
       - id: seed-isort-config
+
   - repo: https://github.com/pre-commit/mirrors-isort
     rev: v5.10.1
     hooks:
       - id: isort
+
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v2.5.0
     hooks:
       - id: trailing-whitespace
       - id: end-of-file-fixer
-      - id: flake8
-        args: ['--max-line-length=150']
       - id: double-quote-string-fixer
       - id: check-docstring-first
+
+  - repo: https://github.com/PyCQA/flake8
+    rev: 6.1.0
+    hooks:
+      - id: flake8
+        args: ['--max-line-length=150']

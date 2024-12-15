@@ -1,41 +1,36 @@
+import argparse
+
 import pandas as pd
 from sklearn.metrics import classification_report
 
 
-def quality_check(input_csv_path, output_report_path):
-    """
-    This function takes a dataset path and an output path,
-    reads the data, generates a classification report for the 'category'
-    and 'predicted_category' columns, and saves it to the output file.
+def extract_first_level(category):
+    """Extracts the first level of a hierarchical category."""
+    if pd.isna(category):
+        return 'Unknown'
+    return category.split('/')[0].strip()  # Extracts first level before '/'
 
-    :param input_csv_path: Path to the input CSV dataset
-    :param output_report_path: Path to save the classification report (.txt)
-    """
-    data = pd.read_csv(input_csv_path)
-    required_columns = {'category', 'predicted_category'}
-    if not required_columns.issubset(data.columns):
-        raise ValueError(f"Dataset must contain the following columns: {required_columns}")
 
-    # Computing the classification report
+def generate_classification_report(input_file, output_file):
+    data = pd.read_csv(input_file)
+
+    data['category_first_level'] = data['category'].apply(extract_first_level)
+    data = data[(data['category_first_level'] != 'Unknown')]
+
+    # Generating the classification report
     report = classification_report(
-        data['category'],
-        data['predicted_category'],
-        zero_division=0
+        data['category_first_level'],
+        data['predicted_category']
     )
 
-    # Saving the report to a file
-    with open(output_report_path, 'w') as file:
-        file.write(report)
-
-    print(f"Classification report saved to {output_report_path}")
+    with open(output_file, 'w') as f:
+        f.write(report)
 
 
 if __name__ == '__main__':
-    import argparse
-
-    parser = argparse.ArgumentParser(description='Generate classification report.')
-    parser.add_argument('--input', type=str, required=True, help='Path to the input dataset (CSV file)')
-    parser.add_argument('--output', type=str, required=True, help='Path to save the output report (.txt)')
+    parser = argparse.ArgumentParser(description='Generate classification report for first-level categories.')
+    parser.add_argument('--input', required=True, help='Path to the input dataset (CSV file).')
+    parser.add_argument('--output', required=True, help='Path to save the classification report (TXT file).')
     args = parser.parse_args()
 
-    quality_check(args.input, args.output)
+    generate_classification_report(args.input, args.output)
